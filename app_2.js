@@ -5510,7 +5510,7 @@ document.write(
   '<script src="//rawcdn.githack.com/cheems/goindex-extended/295ceaf2d64b2cb8578b21c0313d75b7bc8738a1/js/flv.min.js"></script>'
 );
 document.write(
-  '<script src="//rawcdn.githack.com/cheems/goindex-extended/295ceaf2d64b2cb8578b21c0313d75b7bc8738a1/js/DPlayer.min.js"></script>'
+  '<script src="//rawcdn.githack.com/xkoti/goindex-extended/da33d4e7e491a3f428fbb5a12335d56dabfff6c9/js/DPlayer.min.js"></script>'
 );
 document.write(
   '<script src="//cdn.jsdelivr.net/npm/marked@4.0.0/marked.min.js"></script>'
